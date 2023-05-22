@@ -1,6 +1,6 @@
 # Run project
-
-run command `docker-compose up`
+* 1 - Have docker installed
+* 2 - Run command `docker-compose up`
 # Library API
 
 GBH just hired you to create an online library. It needs you to build a REST API and an application that will allow our clients to read the list of available books, as well as to read those books' page by page in the desired formats.
